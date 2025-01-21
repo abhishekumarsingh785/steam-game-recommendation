@@ -10,6 +10,7 @@ Here's a sneak peek at the app interface:
 ![Interface](interface.png)  
 
 [**Try it live here!**](https://steamgamerecommend.azurewebsites.net/). 
+
 ---
 
 ## 🌐 What’s This About?  
@@ -27,7 +28,7 @@ This web app provides personalized game recommendations based on your input. Whi
 ## 🔧 End-to-End Workflow  
 
 Here’s the data flow powering the app:  
-![Data Flow](Data_Flow.png)  
+![Data Flow](end-to-end-flow.png)  
 
 ### **Data ETL Pipeline**  
 1. **Extract**: Game data fetched via the Steam API.  
